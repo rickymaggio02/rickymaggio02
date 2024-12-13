@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riccardo Maggioni</h1>
-<h3 align="center">An Ai and robotic enthusiast from Italy. I like working on open source project for robotics and LLM and you can find some of them pinned here.</h3>
+<h3 align="center">An Ai and robotic enthusiast from Italy. I like working on open source projects for robotics and LLM and you can find some of them pinned here.</h3>
 
-- 🔭 The Open project I'm more proud of are [OpenRobotGPT](https://github.com/Thinking-Machines-RL/OpenRobotGPT)
+- 🔭 The Open project I'm more proud of are: [OpenRobotGPT](https://github.com/Thinking-Machines-RL/OpenRobotGPT) and [CheemsCity](https://github.com/CheemsCity/CheemsCity).
 
-- and [CheemsCity](https://github.com/CheemsCity/CheemsCity)
-
-- 🤝 I'm also TA of one of the coolest course of ETH, you can find some of the exercise and test I created for the students here: [Planning and Decision Making for Autonomous Vehicles](https://github.com/PDM4AR/exercises)
+- 🤝 I'm also TA of one of the coolest course of ETH, you can find some of the exercises and test I created for the students here: [Planning and Decision Making for Autonomous Vehicles](https://github.com/PDM4AR/exercises)
 
 - 📫 How to reach me **riccardo.maggioni@googlemail.com**
 
