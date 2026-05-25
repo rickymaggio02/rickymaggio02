@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./forgis_fmab_banner_preview.svg" alt="Equivalent Exchange" width="400"/>
+<img src="./forgis_fmab_banner_preview.svg" alt="Equivalent Exchange" width="700"/>
 
 # Riccardo Maggioni
 
