@@ -1,13 +1,28 @@
-<h1 align="center">Hi 👋, I'm Riccardo Maggioni</h1>
-<h3 align="center">An Ai and robotic enthusiast from Italy. I like working on open source projects for robotics and LLM and you can find some of them pinned here.</h3>
+<div align="center">
 
-- 🔭 The Open project I'm more proud of are: [OpenRobotGPT](https://github.com/Thinking-Machines-RL/OpenRobotGPT) and [CheemsCity](https://github.com/CheemsCity/CheemsCity).
+<img src="./assets/fmab.png" alt="Equivalent Exchange" width="180"/>
 
-- 🤝 I'm also TA of one of the coolest course of ETH, you can find some of the exercises and test I created for the students here: [Planning and Decision Making for Autonomous Vehicles](https://github.com/PDM4AR/exercises)
+# Riccardo Maggioni
 
-- 📫 How to reach me **riccardo.maggioni@googlemail.com**
+**CTO @ [Forgis](https://www.forgis.com)** · Industrial Intelligence · Zürich
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+[Scholar](https://scholar.google.com/citations?hl=it&user=qYxdNyIAAAAJ) · [Email](mailto:riccardo.maggioni@googlemail.com)
 
+</div>
 
+---
+
+Building the world model for manufacturing. A unified representation of machines, PLCs and robots across vendors, so factories can perceive, reason, and act on their own physics. Mostly: training models on industrial sensor streams, shipping them to edge boxes bolted next to robots and machines.
+
+> *Humankind cannot gain anything without first giving something in return.*
+
+### Selected work
+
+- **[FactoryNet](https://www.forgis.com/papers/factorynet.html)** — first universal pretraining corpus for industrial time-series. 51M datapoints, 6 embodiments, zero-shot cross-embodiment transfer.
+- **[Hepa](https://arxiv.org/pdf/2605.11130)**
+- **TEMPO** — *coming soon*
+- **[OpenRobotGPT](https://github.com/Thinking-Machines-RL/OpenRobotGPT)** · **[CheemsCity](https://github.com/CheemsCity/CheemsCity)** · **[PDM4AR](https://github.com/PDM4AR/exercises)** (ETH TA)
+
+### Stack
+
+Python · C++ · Rust · PyTorch · ROS 2 · Isaac Sim · OPC UA · Siemens/ABB/KUKA/UR
